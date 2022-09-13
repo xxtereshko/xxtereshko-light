@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xxtereshko/vscode-theme"
   },
   "engines": {
     "vscode": "^1.71.0"
