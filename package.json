@@ -1,0 +1,25 @@
+{
+  "name": "xxtereshko-light",
+  "displayName": "@xxtereshko Light",
+  "description": "VSCode light theme inspired by One Light & GitHub",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "xxtereshko-light",
+        "uiTheme": "vs",
+        "path": "./themes/xxtereshko-light-color-theme.json"
+      }
+    ]
+  }
+}
