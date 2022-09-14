@@ -2,7 +2,7 @@
   "name": "xxtereshko-light",
   "displayName": "@xxtereshko Light",
   "description": "VSCode light theme inspired by One Light & GitHub",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/xxtereshko/vscode-theme"
