@@ -1,7 +1,8 @@
 {
   "name": "xxtereshko-light",
-  "displayName": "@xxtereshko Light",
-  "description": "VSCode light theme inspired by One Light & GitHub",
+  "displayName": "xxtereshko Light",
+  "description": "VSCode light theme inspired by GitHub color palette and One Light color tokens",
+  "publisher": "xxtereshko",
   "version": "0.0.4",
   "repository": {
     "type": "git",
