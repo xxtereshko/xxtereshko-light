@@ -3,7 +3,7 @@
   "displayName": "xxtereshko Light",
   "description": "VSCode light theme inspired by GitHub color palette and One Light color tokens",
   "publisher": "xxtereshko",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/xxtereshko/vscode-theme"
