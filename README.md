@@ -1,4 +1,4 @@
-# xxtereshko-light README
+# xxtereshko-light
 
 VSCode Light theme inspired by GitHub Theme and One Light color tokens.
 
